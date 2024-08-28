@@ -1,0 +1,32 @@
+
+
+*{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.contenedor {
+  width: 600px;
+
+    
+}
+
+.no-select {
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none;    /* Firefox */
+  -ms-user-select: none;     /* Internet Explorer/Edge */
+  user-select: none;         /* Estándar */
+}
+
+.form-check-label {
+  margin: 0 0 0 5px;
+}
+
+.col {
+  width: 277.33;
+  height: 277.33;
+}
+
+.card-img-top {
+  height: 300px; /* Altura fija para todas las imágenes */
+}
